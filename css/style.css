@@ -1,0 +1,26 @@
+body{
+  background-color:white;
+  margin:20px 10px 20px 10px;
+  font:Monospace;
+  color:grey;
+}
+#green{
+  background-color:silver;
+  margin : 50px 50px 20px 50px;
+  padding:10px 10px 10px 10px;
+}
+.norman-image{
+ image-width:100px;
+  border:1px green solid;
+  border-radius:10px;
+ 
+}
+#image-frame{
+  padding:10px 30px;
+  align:middle;
+  background-color: white;
+  border-radius:2px;
+}
+.time-line{
+  padding: 1% 15% 1% 15%;
+}
